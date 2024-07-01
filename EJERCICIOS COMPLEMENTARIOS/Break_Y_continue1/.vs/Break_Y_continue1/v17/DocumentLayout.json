@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EjerciciosLab3\\EJERCICIOS COMPLEMENTARIOS\\Break_Y_continue1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{829475BA-186E-4640-A10A-81E529A500F9}|Break_Y_continue1\\Break_Y_continue1.csproj|d:\\ejercicioslab3\\ejercicios complementarios\\break_y_continue1\\break_y_continue1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829475BA-186E-4640-A10A-81E529A500F9}|Break_Y_continue1\\Break_Y_continue1.csproj|solutionrelative:break_y_continue1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EjerciciosLab3\\EJERCICIOS COMPLEMENTARIOS\\Break_Y_continue1\\Break_Y_continue1\\Program.cs",
+              "RelativeDocumentMoniker": "Break_Y_continue1\\Program.cs",
+              "ToolTip": "D:\\EjerciciosLab3\\EJERCICIOS COMPLEMENTARIOS\\Break_Y_continue1\\Break_Y_continue1\\Program.cs",
+              "RelativeToolTip": "Break_Y_continue1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:33:16.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

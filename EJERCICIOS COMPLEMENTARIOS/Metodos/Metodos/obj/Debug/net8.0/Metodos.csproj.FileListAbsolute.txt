@@ -1,0 +1,14 @@
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Metodos\Metodos\bin\Debug\net8.0\Metodos.exe
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Metodos\Metodos\bin\Debug\net8.0\Metodos.deps.json
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Metodos\Metodos\bin\Debug\net8.0\Metodos.runtimeconfig.json
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Metodos\Metodos\bin\Debug\net8.0\Metodos.dll
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Metodos\Metodos\bin\Debug\net8.0\Metodos.pdb
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Metodos\Metodos\obj\Debug\net8.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Metodos\Metodos\obj\Debug\net8.0\Metodos.AssemblyInfoInputs.cache
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Metodos\Metodos\obj\Debug\net8.0\Metodos.AssemblyInfo.cs
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Metodos\Metodos\obj\Debug\net8.0\Metodos.csproj.CoreCompileInputs.cache
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Metodos\Metodos\obj\Debug\net8.0\Metodos.dll
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Metodos\Metodos\obj\Debug\net8.0\refint\Metodos.dll
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Metodos\Metodos\obj\Debug\net8.0\Metodos.pdb
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Metodos\Metodos\obj\Debug\net8.0\Metodos.genruntimeconfig.cache
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Metodos\Metodos\obj\Debug\net8.0\ref\Metodos.dll

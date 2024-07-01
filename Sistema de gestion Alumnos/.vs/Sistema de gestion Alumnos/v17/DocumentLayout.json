@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EjerciciosLab3\\Sistema de gestion Alumnos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{477E09A2-D10C-4BA9-81E8-2B14FA94DDC9}|Sistema de gestion Alumnos\\Sistema de gestion Alumnos.csproj|d:\\ejercicioslab3\\sistema de gestion alumnos\\sistema de gestion alumnos\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477E09A2-D10C-4BA9-81E8-2B14FA94DDC9}|Sistema de gestion Alumnos\\Sistema de gestion Alumnos.csproj|solutionrelative:sistema de gestion alumnos\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477E09A2-D10C-4BA9-81E8-2B14FA94DDC9}|Sistema de gestion Alumnos\\Sistema de gestion Alumnos.csproj|d:\\ejercicioslab3\\sistema de gestion alumnos\\sistema de gestion alumnos\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477E09A2-D10C-4BA9-81E8-2B14FA94DDC9}|Sistema de gestion Alumnos\\Sistema de gestion Alumnos.csproj|solutionrelative:sistema de gestion alumnos\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477E09A2-D10C-4BA9-81E8-2B14FA94DDC9}|Sistema de gestion Alumnos\\Sistema de gestion Alumnos.csproj|d:\\ejercicioslab3\\sistema de gestion alumnos\\sistema de gestion alumnos\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477E09A2-D10C-4BA9-81E8-2B14FA94DDC9}|Sistema de gestion Alumnos\\Sistema de gestion Alumnos.csproj|solutionrelative:sistema de gestion alumnos\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477E09A2-D10C-4BA9-81E8-2B14FA94DDC9}|Sistema de gestion Alumnos\\Sistema de gestion Alumnos.csproj|d:\\ejercicioslab3\\sistema de gestion alumnos\\sistema de gestion alumnos\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477E09A2-D10C-4BA9-81E8-2B14FA94DDC9}|Sistema de gestion Alumnos\\Sistema de gestion Alumnos.csproj|solutionrelative:sistema de gestion alumnos\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477E09A2-D10C-4BA9-81E8-2B14FA94DDC9}|Sistema de gestion Alumnos\\Sistema de gestion Alumnos.csproj|d:\\ejercicioslab3\\sistema de gestion alumnos\\sistema de gestion alumnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477E09A2-D10C-4BA9-81E8-2B14FA94DDC9}|Sistema de gestion Alumnos\\Sistema de gestion Alumnos.csproj|solutionrelative:sistema de gestion alumnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Universidad.cs",
+              "DocumentMoniker": "D:\\EjerciciosLab3\\Sistema de gestion Alumnos\\Sistema de gestion Alumnos\\Universidad.cs",
+              "RelativeDocumentMoniker": "Sistema de gestion Alumnos\\Universidad.cs",
+              "ToolTip": "D:\\EjerciciosLab3\\Sistema de gestion Alumnos\\Sistema de gestion Alumnos\\Universidad.cs",
+              "RelativeToolTip": "Sistema de gestion Alumnos\\Universidad.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAcwE8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:15:45.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "profesor.cs",
+              "DocumentMoniker": "D:\\EjerciciosLab3\\Sistema de gestion Alumnos\\Sistema de gestion Alumnos\\profesor.cs",
+              "RelativeDocumentMoniker": "Sistema de gestion Alumnos\\profesor.cs",
+              "ToolTip": "D:\\EjerciciosLab3\\Sistema de gestion Alumnos\\Sistema de gestion Alumnos\\profesor.cs",
+              "RelativeToolTip": "Sistema de gestion Alumnos\\profesor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:14:47.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clase.cs",
+              "DocumentMoniker": "D:\\EjerciciosLab3\\Sistema de gestion Alumnos\\Sistema de gestion Alumnos\\Clase.cs",
+              "RelativeDocumentMoniker": "Sistema de gestion Alumnos\\Clase.cs",
+              "ToolTip": "D:\\EjerciciosLab3\\Sistema de gestion Alumnos\\Sistema de gestion Alumnos\\Clase.cs",
+              "RelativeToolTip": "Sistema de gestion Alumnos\\Clase.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:48:35.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "D:\\EjerciciosLab3\\Sistema de gestion Alumnos\\Sistema de gestion Alumnos\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Sistema de gestion Alumnos\\Estudiante.cs",
+              "ToolTip": "D:\\EjerciciosLab3\\Sistema de gestion Alumnos\\Sistema de gestion Alumnos\\Estudiante.cs",
+              "RelativeToolTip": "Sistema de gestion Alumnos\\Estudiante.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:50:47.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EjerciciosLab3\\Sistema de gestion Alumnos\\Sistema de gestion Alumnos\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema de gestion Alumnos\\Program.cs",
+              "ToolTip": "D:\\EjerciciosLab3\\Sistema de gestion Alumnos\\Sistema de gestion Alumnos\\Program.cs",
+              "RelativeToolTip": "Sistema de gestion Alumnos\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:46:03.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

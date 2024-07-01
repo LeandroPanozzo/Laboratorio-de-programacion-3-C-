@@ -1,0 +1,15 @@
+F:\lea\laboratorio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+F:\lea\laboratorio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+F:\lea\laboratorio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+F:\lea\laboratorio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+F:\lea\laboratorio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.SuggestedBindingRedirects.cache
+F:\lea\laboratorio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+F:\lea\laboratorio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+F:\lea\laboratorio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+D:\EjerciciosLab3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+D:\EjerciciosLab3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+D:\EjerciciosLab3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+D:\EjerciciosLab3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+D:\EjerciciosLab3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+D:\EjerciciosLab3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+D:\EjerciciosLab3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb

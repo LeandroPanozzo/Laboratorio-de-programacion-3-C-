@@ -1,0 +1,14 @@
+D:\EjerciciosLab3\Practicos sencillos 4\Practicos sencillos 4\bin\Debug\net8.0\Practicos sencillos 4.exe
+D:\EjerciciosLab3\Practicos sencillos 4\Practicos sencillos 4\bin\Debug\net8.0\Practicos sencillos 4.deps.json
+D:\EjerciciosLab3\Practicos sencillos 4\Practicos sencillos 4\bin\Debug\net8.0\Practicos sencillos 4.runtimeconfig.json
+D:\EjerciciosLab3\Practicos sencillos 4\Practicos sencillos 4\bin\Debug\net8.0\Practicos sencillos 4.dll
+D:\EjerciciosLab3\Practicos sencillos 4\Practicos sencillos 4\bin\Debug\net8.0\Practicos sencillos 4.pdb
+D:\EjerciciosLab3\Practicos sencillos 4\Practicos sencillos 4\obj\Debug\net8.0\Practicos sencillos 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosLab3\Practicos sencillos 4\Practicos sencillos 4\obj\Debug\net8.0\Practicos sencillos 4.AssemblyInfoInputs.cache
+D:\EjerciciosLab3\Practicos sencillos 4\Practicos sencillos 4\obj\Debug\net8.0\Practicos sencillos 4.AssemblyInfo.cs
+D:\EjerciciosLab3\Practicos sencillos 4\Practicos sencillos 4\obj\Debug\net8.0\Practicos sencillos 4.csproj.CoreCompileInputs.cache
+D:\EjerciciosLab3\Practicos sencillos 4\Practicos sencillos 4\obj\Debug\net8.0\Practicos sencillos 4.dll
+D:\EjerciciosLab3\Practicos sencillos 4\Practicos sencillos 4\obj\Debug\net8.0\refint\Practicos sencillos 4.dll
+D:\EjerciciosLab3\Practicos sencillos 4\Practicos sencillos 4\obj\Debug\net8.0\Practicos sencillos 4.pdb
+D:\EjerciciosLab3\Practicos sencillos 4\Practicos sencillos 4\obj\Debug\net8.0\Practicos sencillos 4.genruntimeconfig.cache
+D:\EjerciciosLab3\Practicos sencillos 4\Practicos sencillos 4\obj\Debug\net8.0\ref\Practicos sencillos 4.dll

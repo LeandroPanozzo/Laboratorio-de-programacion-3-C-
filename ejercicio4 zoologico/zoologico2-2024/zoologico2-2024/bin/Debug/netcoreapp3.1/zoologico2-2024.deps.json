@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "zoologico2-2024/1.0.0": {
+        "runtime": {
+          "zoologico2-2024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zoologico2-2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

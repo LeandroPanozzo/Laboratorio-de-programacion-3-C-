@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EjerciciosLab3\\ZooConInterfaz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|d:\\ejercicioslab3\\zooconinterfaz\\zooconinterfaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|solutionrelative:zooconinterfaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|d:\\ejercicioslab3\\zooconinterfaz\\zooconinterfaz\\pruebaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|solutionrelative:zooconinterfaz\\pruebaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|d:\\ejercicioslab3\\zooconinterfaz\\zooconinterfaz\\cuidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|solutionrelative:zooconinterfaz\\cuidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|d:\\ejercicioslab3\\zooconinterfaz\\zooconinterfaz\\zoologico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|solutionrelative:zooconinterfaz\\zoologico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|d:\\ejercicioslab3\\zooconinterfaz\\zooconinterfaz\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|solutionrelative:zooconinterfaz\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|d:\\ejercicioslab3\\zooconinterfaz\\zooconinterfaz\\pez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|solutionrelative:zooconinterfaz\\pez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|d:\\ejercicioslab3\\zooconinterfaz\\zooconinterfaz\\plantacarnibora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|solutionrelative:zooconinterfaz\\plantacarnibora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|d:\\ejercicioslab3\\zooconinterfaz\\zooconinterfaz\\mamifero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|solutionrelative:zooconinterfaz\\mamifero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|d:\\ejercicioslab3\\zooconinterfaz\\zooconinterfaz\\ave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|solutionrelative:zooconinterfaz\\ave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|d:\\ejercicioslab3\\zooconinterfaz\\zooconinterfaz\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C609B88-83FB-4BB1-ABFA-80CE0564CA5A}|ZooConInterfaz\\ZooConInterfaz.csproj|solutionrelative:zooconinterfaz\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlantaCarnibora.cs",
+              "DocumentMoniker": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\PlantaCarnibora.cs",
+              "RelativeDocumentMoniker": "ZooConInterfaz\\PlantaCarnibora.cs",
+              "ToolTip": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\PlantaCarnibora.cs",
+              "RelativeToolTip": "ZooConInterfaz\\PlantaCarnibora.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:47:13.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pez.cs",
+              "DocumentMoniker": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\Pez.cs",
+              "RelativeDocumentMoniker": "ZooConInterfaz\\Pez.cs",
+              "ToolTip": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\Pez.cs",
+              "RelativeToolTip": "ZooConInterfaz\\Pez.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:45:44.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ave.cs",
+              "DocumentMoniker": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\Ave.cs",
+              "RelativeDocumentMoniker": "ZooConInterfaz\\Ave.cs",
+              "ToolTip": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\Ave.cs",
+              "RelativeToolTip": "ZooConInterfaz\\Ave.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:44:46.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mamifero.cs",
+              "DocumentMoniker": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\Mamifero.cs",
+              "RelativeDocumentMoniker": "ZooConInterfaz\\Mamifero.cs",
+              "ToolTip": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\Mamifero.cs",
+              "RelativeToolTip": "ZooConInterfaz\\Mamifero.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:43:49.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\IAnimal.cs",
+              "RelativeDocumentMoniker": "ZooConInterfaz\\IAnimal.cs",
+              "ToolTip": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\IAnimal.cs",
+              "RelativeToolTip": "ZooConInterfaz\\IAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:40:33.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PruebaAdministrador.cs",
+              "DocumentMoniker": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\PruebaAdministrador.cs",
+              "RelativeDocumentMoniker": "ZooConInterfaz\\PruebaAdministrador.cs",
+              "ToolTip": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\PruebaAdministrador.cs",
+              "RelativeToolTip": "ZooConInterfaz\\PruebaAdministrador.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:41:00.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cuidador.cs",
+              "DocumentMoniker": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\Cuidador.cs",
+              "RelativeDocumentMoniker": "ZooConInterfaz\\Cuidador.cs",
+              "ToolTip": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\Cuidador.cs",
+              "RelativeToolTip": "ZooConInterfaz\\Cuidador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:37:04.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zoologico.cs",
+              "DocumentMoniker": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\Zoologico.cs",
+              "RelativeDocumentMoniker": "ZooConInterfaz\\Zoologico.cs",
+              "ToolTip": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\Zoologico.cs",
+              "RelativeToolTip": "ZooConInterfaz\\Zoologico.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:11:32.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\Program.cs",
+              "RelativeDocumentMoniker": "ZooConInterfaz\\Program.cs",
+              "ToolTip": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\Program.cs",
+              "RelativeToolTip": "ZooConInterfaz\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:06:30.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\Animal.cs",
+              "RelativeDocumentMoniker": "ZooConInterfaz\\Animal.cs",
+              "ToolTip": "D:\\EjerciciosLab3\\ZooConInterfaz\\ZooConInterfaz\\Animal.cs",
+              "RelativeToolTip": "ZooConInterfaz\\Animal.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:09:51.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

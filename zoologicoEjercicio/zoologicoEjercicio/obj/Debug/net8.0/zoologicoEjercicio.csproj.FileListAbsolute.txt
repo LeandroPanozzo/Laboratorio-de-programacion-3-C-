@@ -1,0 +1,14 @@
+D:\EjerciciosLab3\zoologicoEjercicio\zoologicoEjercicio\obj\Debug\net8.0\zoologicoEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosLab3\zoologicoEjercicio\zoologicoEjercicio\obj\Debug\net8.0\zoologicoEjercicio.AssemblyInfoInputs.cache
+D:\EjerciciosLab3\zoologicoEjercicio\zoologicoEjercicio\obj\Debug\net8.0\zoologicoEjercicio.AssemblyInfo.cs
+D:\EjerciciosLab3\zoologicoEjercicio\zoologicoEjercicio\obj\Debug\net8.0\zoologicoEjercicio.csproj.CoreCompileInputs.cache
+D:\EjerciciosLab3\zoologicoEjercicio\zoologicoEjercicio\bin\Debug\net8.0\zoologicoEjercicio.exe
+D:\EjerciciosLab3\zoologicoEjercicio\zoologicoEjercicio\bin\Debug\net8.0\zoologicoEjercicio.deps.json
+D:\EjerciciosLab3\zoologicoEjercicio\zoologicoEjercicio\bin\Debug\net8.0\zoologicoEjercicio.runtimeconfig.json
+D:\EjerciciosLab3\zoologicoEjercicio\zoologicoEjercicio\bin\Debug\net8.0\zoologicoEjercicio.dll
+D:\EjerciciosLab3\zoologicoEjercicio\zoologicoEjercicio\bin\Debug\net8.0\zoologicoEjercicio.pdb
+D:\EjerciciosLab3\zoologicoEjercicio\zoologicoEjercicio\obj\Debug\net8.0\zoologicoEjercicio.dll
+D:\EjerciciosLab3\zoologicoEjercicio\zoologicoEjercicio\obj\Debug\net8.0\refint\zoologicoEjercicio.dll
+D:\EjerciciosLab3\zoologicoEjercicio\zoologicoEjercicio\obj\Debug\net8.0\zoologicoEjercicio.pdb
+D:\EjerciciosLab3\zoologicoEjercicio\zoologicoEjercicio\obj\Debug\net8.0\zoologicoEjercicio.genruntimeconfig.cache
+D:\EjerciciosLab3\zoologicoEjercicio\zoologicoEjercicio\obj\Debug\net8.0\ref\zoologicoEjercicio.dll

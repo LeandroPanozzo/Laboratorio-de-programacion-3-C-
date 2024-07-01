@@ -1,0 +1,14 @@
+D:\EjerciciosLab3\Preguntas y respuestas\Preguntas y respuestas\bin\Debug\net8.0\Preguntas y respuestas.exe
+D:\EjerciciosLab3\Preguntas y respuestas\Preguntas y respuestas\bin\Debug\net8.0\Preguntas y respuestas.deps.json
+D:\EjerciciosLab3\Preguntas y respuestas\Preguntas y respuestas\bin\Debug\net8.0\Preguntas y respuestas.runtimeconfig.json
+D:\EjerciciosLab3\Preguntas y respuestas\Preguntas y respuestas\bin\Debug\net8.0\Preguntas y respuestas.dll
+D:\EjerciciosLab3\Preguntas y respuestas\Preguntas y respuestas\bin\Debug\net8.0\Preguntas y respuestas.pdb
+D:\EjerciciosLab3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\net8.0\Preguntas y respuestas.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosLab3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\net8.0\Preguntas y respuestas.AssemblyInfoInputs.cache
+D:\EjerciciosLab3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\net8.0\Preguntas y respuestas.AssemblyInfo.cs
+D:\EjerciciosLab3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\net8.0\Preguntas y respuestas.csproj.CoreCompileInputs.cache
+D:\EjerciciosLab3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\net8.0\Preguntas y respuestas.dll
+D:\EjerciciosLab3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\net8.0\refint\Preguntas y respuestas.dll
+D:\EjerciciosLab3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\net8.0\Preguntas y respuestas.pdb
+D:\EjerciciosLab3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\net8.0\Preguntas y respuestas.genruntimeconfig.cache
+D:\EjerciciosLab3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\net8.0\ref\Preguntas y respuestas.dll

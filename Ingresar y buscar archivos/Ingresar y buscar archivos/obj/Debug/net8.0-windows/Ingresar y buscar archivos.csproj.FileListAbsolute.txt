@@ -1,0 +1,17 @@
+D:\EjerciciosLab3\Ingresar y buscar archivos\Ingresar y buscar archivos\bin\Debug\net8.0-windows\Ingresar y buscar archivos.exe
+D:\EjerciciosLab3\Ingresar y buscar archivos\Ingresar y buscar archivos\bin\Debug\net8.0-windows\Ingresar y buscar archivos.deps.json
+D:\EjerciciosLab3\Ingresar y buscar archivos\Ingresar y buscar archivos\bin\Debug\net8.0-windows\Ingresar y buscar archivos.runtimeconfig.json
+D:\EjerciciosLab3\Ingresar y buscar archivos\Ingresar y buscar archivos\bin\Debug\net8.0-windows\Ingresar y buscar archivos.dll
+D:\EjerciciosLab3\Ingresar y buscar archivos\Ingresar y buscar archivos\bin\Debug\net8.0-windows\Ingresar y buscar archivos.pdb
+D:\EjerciciosLab3\Ingresar y buscar archivos\Ingresar y buscar archivos\obj\Debug\net8.0-windows\Ingresar_y_buscar_archivos.Abrir_Archivo.resources
+D:\EjerciciosLab3\Ingresar y buscar archivos\Ingresar y buscar archivos\obj\Debug\net8.0-windows\Ingresar y buscar archivos.csproj.GenerateResource.cache
+D:\EjerciciosLab3\Ingresar y buscar archivos\Ingresar y buscar archivos\obj\Debug\net8.0-windows\Ingresar y buscar archivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosLab3\Ingresar y buscar archivos\Ingresar y buscar archivos\obj\Debug\net8.0-windows\Ingresar y buscar archivos.AssemblyInfoInputs.cache
+D:\EjerciciosLab3\Ingresar y buscar archivos\Ingresar y buscar archivos\obj\Debug\net8.0-windows\Ingresar y buscar archivos.AssemblyInfo.cs
+D:\EjerciciosLab3\Ingresar y buscar archivos\Ingresar y buscar archivos\obj\Debug\net8.0-windows\Ingresar y buscar archivos.csproj.CoreCompileInputs.cache
+D:\EjerciciosLab3\Ingresar y buscar archivos\Ingresar y buscar archivos\obj\Debug\net8.0-windows\Ingresar y buscar archivos.dll
+D:\EjerciciosLab3\Ingresar y buscar archivos\Ingresar y buscar archivos\obj\Debug\net8.0-windows\refint\Ingresar y buscar archivos.dll
+D:\EjerciciosLab3\Ingresar y buscar archivos\Ingresar y buscar archivos\obj\Debug\net8.0-windows\Ingresar y buscar archivos.pdb
+D:\EjerciciosLab3\Ingresar y buscar archivos\Ingresar y buscar archivos\obj\Debug\net8.0-windows\Ingresar y buscar archivos.genruntimeconfig.cache
+D:\EjerciciosLab3\Ingresar y buscar archivos\Ingresar y buscar archivos\obj\Debug\net8.0-windows\ref\Ingresar y buscar archivos.dll
+D:\EjerciciosLab3\Ingresar y buscar archivos\Ingresar y buscar archivos\obj\Debug\net8.0-windows\Ingresar_y_buscar_archivos.Escribir_Archivo.resources

@@ -1,0 +1,30 @@
+C:\Users\LENOVO\source\repos\zoologico2-2024\zoologico2-2024\bin\Debug\netcoreapp3.1\zoologico2-2024.exe
+C:\Users\LENOVO\source\repos\zoologico2-2024\zoologico2-2024\bin\Debug\netcoreapp3.1\zoologico2-2024.deps.json
+C:\Users\LENOVO\source\repos\zoologico2-2024\zoologico2-2024\bin\Debug\netcoreapp3.1\zoologico2-2024.runtimeconfig.json
+C:\Users\LENOVO\source\repos\zoologico2-2024\zoologico2-2024\bin\Debug\netcoreapp3.1\zoologico2-2024.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\zoologico2-2024\zoologico2-2024\bin\Debug\netcoreapp3.1\zoologico2-2024.dll
+C:\Users\LENOVO\source\repos\zoologico2-2024\zoologico2-2024\bin\Debug\netcoreapp3.1\zoologico2-2024.pdb
+C:\Users\LENOVO\source\repos\zoologico2-2024\zoologico2-2024\obj\Debug\netcoreapp3.1\zoologico2-2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\zoologico2-2024\zoologico2-2024\obj\Debug\netcoreapp3.1\zoologico2-2024.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\zoologico2-2024\zoologico2-2024\obj\Debug\netcoreapp3.1\zoologico2-2024.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\zoologico2-2024\zoologico2-2024\obj\Debug\netcoreapp3.1\zoologico2-2024.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\zoologico2-2024\zoologico2-2024\obj\Debug\netcoreapp3.1\zoologico2-2024.dll
+C:\Users\LENOVO\source\repos\zoologico2-2024\zoologico2-2024\obj\Debug\netcoreapp3.1\zoologico2-2024.pdb
+C:\Users\LENOVO\source\repos\zoologico2-2024\zoologico2-2024\obj\Debug\netcoreapp3.1\zoologico2-2024.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\zoologico2-2024\zoologico2-2024\obj\Debug\netcoreapp3.1\zoologico2-2024.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\zoologico2-2024\zoologico2-2024\bin\Debug\netcoreapp3.1\zoologico2-2024.exe
+C:\Users\Usuario\Desktop\zoologico2-2024\zoologico2-2024\bin\Debug\netcoreapp3.1\zoologico2-2024.deps.json
+C:\Users\Usuario\Desktop\zoologico2-2024\zoologico2-2024\bin\Debug\netcoreapp3.1\zoologico2-2024.runtimeconfig.json
+C:\Users\Usuario\Desktop\zoologico2-2024\zoologico2-2024\bin\Debug\netcoreapp3.1\zoologico2-2024.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\zoologico2-2024\zoologico2-2024\bin\Debug\netcoreapp3.1\zoologico2-2024.dll
+C:\Users\Usuario\Desktop\zoologico2-2024\zoologico2-2024\bin\Debug\netcoreapp3.1\zoologico2-2024.pdb
+C:\Users\Usuario\Desktop\zoologico2-2024\zoologico2-2024\obj\Debug\netcoreapp3.1\zoologico2-2024.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\zoologico2-2024\zoologico2-2024\obj\Debug\netcoreapp3.1\zoologico2-2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\zoologico2-2024\zoologico2-2024\obj\Debug\netcoreapp3.1\zoologico2-2024.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\zoologico2-2024\zoologico2-2024\obj\Debug\netcoreapp3.1\zoologico2-2024.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\zoologico2-2024\zoologico2-2024\obj\Debug\netcoreapp3.1\zoologico2-2024.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\zoologico2-2024\zoologico2-2024\obj\Debug\netcoreapp3.1\zoologico2-2024.dll
+C:\Users\Usuario\Desktop\zoologico2-2024\zoologico2-2024\obj\Debug\netcoreapp3.1\zoologico2-2024.pdb
+C:\Users\Usuario\Desktop\zoologico2-2024\zoologico2-2024\obj\Debug\netcoreapp3.1\zoologico2-2024.genruntimeconfig.cache
+D:\EjerciciosLab3\ejercicio4 zoologico\zoologico2-2024\zoologico2-2024\obj\Debug\netcoreapp3.1\zoologico2-2024.dll
+D:\EjerciciosLab3\ejercicio4 zoologico\zoologico2-2024\zoologico2-2024\obj\Debug\netcoreapp3.1\zoologico2-2024.pdb

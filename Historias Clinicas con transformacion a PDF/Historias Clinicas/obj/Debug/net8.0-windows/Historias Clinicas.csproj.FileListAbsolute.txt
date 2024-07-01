@@ -1,0 +1,86 @@
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.exe
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.deps.json
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.runtimeconfig.json
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.dll
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.pdb
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias_Clinicas.AgregarYModificarClientes.resources
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.csproj.GenerateResource.cache
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.AssemblyInfoInputs.cache
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.AssemblyInfo.cs
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.csproj.CoreCompileInputs.cache
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.dll
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\refint\Historias Clinicas.dll
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.pdb
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.genruntimeconfig.cache
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\ref\Historias Clinicas.dll
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias_Clinicas.Historias_Clinicas.resources
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias_Clinicas.InformeCliente.resources
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.exe
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.deps.json
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.runtimeconfig.json
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.dll
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.pdb
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias_Clinicas.AgregarYModificarClientes.resources
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias_Clinicas.Historias_Clinicas.resources
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias_Clinicas.InformeCliente.resources
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.csproj.GenerateResource.cache
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historia.07033DC4.Up2Date
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.dll
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\refint\Historias Clinicas.dll
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.pdb
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.genruntimeconfig.cache
+C:\Users\Leandro\Desktop\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\ref\Historias Clinicas.dll
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.exe
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.deps.json
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.runtimeconfig.json
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.dll
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.pdb
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\EPPlus.dll
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\itextsharp.dll
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.csproj.AssemblyReference.cache
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\obj\Debug\net8.0-windows\Historias_Clinicas.AgregarYModificarClientes.resources
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\obj\Debug\net8.0-windows\Historias_Clinicas.Historias_Clinicas.resources
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\obj\Debug\net8.0-windows\Historias_Clinicas.InformeCliente.resources
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.csproj.GenerateResource.cache
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.AssemblyInfoInputs.cache
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.AssemblyInfo.cs
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.csproj.CoreCompileInputs.cache
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\obj\Debug\net8.0-windows\Historia.07033DC4.Up2Date
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.dll
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\obj\Debug\net8.0-windows\refint\Historias Clinicas.dll
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.pdb
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.genruntimeconfig.cache
+D:\EjerciciosLab3\Historias Clinicas con transformacion a PDF\Historias Clinicas\obj\Debug\net8.0-windows\ref\Historias Clinicas.dll

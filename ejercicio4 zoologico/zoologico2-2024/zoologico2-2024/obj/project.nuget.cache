@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yrpmC88uBYD2lrEHOgXsPlf5Qf9B8V2sEzJx1HItyEkJVTxusSS62gNcMWyeEn6cJiK+LHsf2MJjNbP9LdsWiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\zoologico2-2024\\zoologico2-2024\\zoologico2-2024.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

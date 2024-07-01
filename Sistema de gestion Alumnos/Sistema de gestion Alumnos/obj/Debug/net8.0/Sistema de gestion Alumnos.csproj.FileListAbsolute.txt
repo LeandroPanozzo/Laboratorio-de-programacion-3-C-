@@ -1,0 +1,14 @@
+D:\EjerciciosLab3\Sistema de gestion Alumnos\Sistema de gestion Alumnos\bin\Debug\net8.0\Sistema de gestion Alumnos.exe
+D:\EjerciciosLab3\Sistema de gestion Alumnos\Sistema de gestion Alumnos\bin\Debug\net8.0\Sistema de gestion Alumnos.deps.json
+D:\EjerciciosLab3\Sistema de gestion Alumnos\Sistema de gestion Alumnos\bin\Debug\net8.0\Sistema de gestion Alumnos.runtimeconfig.json
+D:\EjerciciosLab3\Sistema de gestion Alumnos\Sistema de gestion Alumnos\bin\Debug\net8.0\Sistema de gestion Alumnos.dll
+D:\EjerciciosLab3\Sistema de gestion Alumnos\Sistema de gestion Alumnos\bin\Debug\net8.0\Sistema de gestion Alumnos.pdb
+D:\EjerciciosLab3\Sistema de gestion Alumnos\Sistema de gestion Alumnos\obj\Debug\net8.0\Sistema de gestion Alumnos.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosLab3\Sistema de gestion Alumnos\Sistema de gestion Alumnos\obj\Debug\net8.0\Sistema de gestion Alumnos.AssemblyInfoInputs.cache
+D:\EjerciciosLab3\Sistema de gestion Alumnos\Sistema de gestion Alumnos\obj\Debug\net8.0\Sistema de gestion Alumnos.AssemblyInfo.cs
+D:\EjerciciosLab3\Sistema de gestion Alumnos\Sistema de gestion Alumnos\obj\Debug\net8.0\Sistema de gestion Alumnos.csproj.CoreCompileInputs.cache
+D:\EjerciciosLab3\Sistema de gestion Alumnos\Sistema de gestion Alumnos\obj\Debug\net8.0\Sistema de gestion Alumnos.dll
+D:\EjerciciosLab3\Sistema de gestion Alumnos\Sistema de gestion Alumnos\obj\Debug\net8.0\refint\Sistema de gestion Alumnos.dll
+D:\EjerciciosLab3\Sistema de gestion Alumnos\Sistema de gestion Alumnos\obj\Debug\net8.0\Sistema de gestion Alumnos.pdb
+D:\EjerciciosLab3\Sistema de gestion Alumnos\Sistema de gestion Alumnos\obj\Debug\net8.0\Sistema de gestion Alumnos.genruntimeconfig.cache
+D:\EjerciciosLab3\Sistema de gestion Alumnos\Sistema de gestion Alumnos\obj\Debug\net8.0\ref\Sistema de gestion Alumnos.dll

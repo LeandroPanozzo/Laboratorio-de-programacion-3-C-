@@ -1,0 +1,14 @@
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Break_Y_continue1\Break_Y_continue1\bin\Debug\net8.0\Break_Y_continue1.exe
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Break_Y_continue1\Break_Y_continue1\bin\Debug\net8.0\Break_Y_continue1.deps.json
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Break_Y_continue1\Break_Y_continue1\bin\Debug\net8.0\Break_Y_continue1.runtimeconfig.json
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Break_Y_continue1\Break_Y_continue1\bin\Debug\net8.0\Break_Y_continue1.dll
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Break_Y_continue1\Break_Y_continue1\bin\Debug\net8.0\Break_Y_continue1.pdb
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Break_Y_continue1\Break_Y_continue1\obj\Debug\net8.0\Break_Y_continue1.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Break_Y_continue1\Break_Y_continue1\obj\Debug\net8.0\Break_Y_continue1.AssemblyInfoInputs.cache
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Break_Y_continue1\Break_Y_continue1\obj\Debug\net8.0\Break_Y_continue1.AssemblyInfo.cs
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Break_Y_continue1\Break_Y_continue1\obj\Debug\net8.0\Break_Y_continue1.csproj.CoreCompileInputs.cache
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Break_Y_continue1\Break_Y_continue1\obj\Debug\net8.0\Break_Y_continue1.dll
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Break_Y_continue1\Break_Y_continue1\obj\Debug\net8.0\refint\Break_Y_continue1.dll
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Break_Y_continue1\Break_Y_continue1\obj\Debug\net8.0\Break_Y_continue1.pdb
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Break_Y_continue1\Break_Y_continue1\obj\Debug\net8.0\Break_Y_continue1.genruntimeconfig.cache
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Break_Y_continue1\Break_Y_continue1\obj\Debug\net8.0\ref\Break_Y_continue1.dll

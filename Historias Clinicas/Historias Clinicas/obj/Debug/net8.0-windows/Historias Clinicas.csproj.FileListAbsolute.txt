@@ -1,0 +1,18 @@
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.exe
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.deps.json
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.runtimeconfig.json
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.dll
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\bin\Debug\net8.0-windows\Historias Clinicas.pdb
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias_Clinicas.AgregarYModificarClientes.resources
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.csproj.GenerateResource.cache
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.AssemblyInfoInputs.cache
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.AssemblyInfo.cs
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.csproj.CoreCompileInputs.cache
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.dll
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\refint\Historias Clinicas.dll
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.pdb
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias Clinicas.genruntimeconfig.cache
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\ref\Historias Clinicas.dll
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias_Clinicas.Historias_Clinicas.resources
+D:\EjerciciosLab3\Historias Clinicas\Historias Clinicas\obj\Debug\net8.0-windows\Historias_Clinicas.InformeCliente.resources

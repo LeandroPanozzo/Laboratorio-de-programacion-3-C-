@@ -1,0 +1,14 @@
+D:\EjerciciosLab3\ZooConInterfaz\ZooConInterfaz\bin\Debug\net8.0\ZooConInterfaz.exe
+D:\EjerciciosLab3\ZooConInterfaz\ZooConInterfaz\bin\Debug\net8.0\ZooConInterfaz.deps.json
+D:\EjerciciosLab3\ZooConInterfaz\ZooConInterfaz\bin\Debug\net8.0\ZooConInterfaz.runtimeconfig.json
+D:\EjerciciosLab3\ZooConInterfaz\ZooConInterfaz\bin\Debug\net8.0\ZooConInterfaz.dll
+D:\EjerciciosLab3\ZooConInterfaz\ZooConInterfaz\bin\Debug\net8.0\ZooConInterfaz.pdb
+D:\EjerciciosLab3\ZooConInterfaz\ZooConInterfaz\obj\Debug\net8.0\ZooConInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosLab3\ZooConInterfaz\ZooConInterfaz\obj\Debug\net8.0\ZooConInterfaz.AssemblyInfoInputs.cache
+D:\EjerciciosLab3\ZooConInterfaz\ZooConInterfaz\obj\Debug\net8.0\ZooConInterfaz.AssemblyInfo.cs
+D:\EjerciciosLab3\ZooConInterfaz\ZooConInterfaz\obj\Debug\net8.0\ZooConInterfaz.csproj.CoreCompileInputs.cache
+D:\EjerciciosLab3\ZooConInterfaz\ZooConInterfaz\obj\Debug\net8.0\ZooConInterfaz.dll
+D:\EjerciciosLab3\ZooConInterfaz\ZooConInterfaz\obj\Debug\net8.0\refint\ZooConInterfaz.dll
+D:\EjerciciosLab3\ZooConInterfaz\ZooConInterfaz\obj\Debug\net8.0\ZooConInterfaz.pdb
+D:\EjerciciosLab3\ZooConInterfaz\ZooConInterfaz\obj\Debug\net8.0\ZooConInterfaz.genruntimeconfig.cache
+D:\EjerciciosLab3\ZooConInterfaz\ZooConInterfaz\obj\Debug\net8.0\ref\ZooConInterfaz.dll

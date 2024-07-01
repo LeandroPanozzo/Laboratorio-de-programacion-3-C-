@@ -1,0 +1,14 @@
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Arreglos1\Arreglos1\bin\Debug\net8.0\Arreglos1.exe
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Arreglos1\Arreglos1\bin\Debug\net8.0\Arreglos1.deps.json
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Arreglos1\Arreglos1\bin\Debug\net8.0\Arreglos1.runtimeconfig.json
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Arreglos1\Arreglos1\bin\Debug\net8.0\Arreglos1.dll
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Arreglos1\Arreglos1\bin\Debug\net8.0\Arreglos1.pdb
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Arreglos1\Arreglos1\obj\Debug\net8.0\Arreglos1.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Arreglos1\Arreglos1\obj\Debug\net8.0\Arreglos1.AssemblyInfoInputs.cache
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Arreglos1\Arreglos1\obj\Debug\net8.0\Arreglos1.AssemblyInfo.cs
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Arreglos1\Arreglos1\obj\Debug\net8.0\Arreglos1.csproj.CoreCompileInputs.cache
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Arreglos1\Arreglos1\obj\Debug\net8.0\Arreglos1.dll
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Arreglos1\Arreglos1\obj\Debug\net8.0\refint\Arreglos1.dll
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Arreglos1\Arreglos1\obj\Debug\net8.0\Arreglos1.pdb
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Arreglos1\Arreglos1\obj\Debug\net8.0\Arreglos1.genruntimeconfig.cache
+D:\EjerciciosLab3\EJERCICIOS COMPLEMENTARIOS\Arreglos1\Arreglos1\obj\Debug\net8.0\ref\Arreglos1.dll

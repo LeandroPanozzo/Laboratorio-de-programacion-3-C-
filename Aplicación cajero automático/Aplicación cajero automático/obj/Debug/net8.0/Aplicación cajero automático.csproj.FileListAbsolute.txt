@@ -1,0 +1,14 @@
+D:\EjerciciosLab3\Aplicación cajero automático\Aplicación cajero automático\bin\Debug\net8.0\Aplicación cajero automático.exe
+D:\EjerciciosLab3\Aplicación cajero automático\Aplicación cajero automático\bin\Debug\net8.0\Aplicación cajero automático.deps.json
+D:\EjerciciosLab3\Aplicación cajero automático\Aplicación cajero automático\bin\Debug\net8.0\Aplicación cajero automático.runtimeconfig.json
+D:\EjerciciosLab3\Aplicación cajero automático\Aplicación cajero automático\bin\Debug\net8.0\Aplicación cajero automático.dll
+D:\EjerciciosLab3\Aplicación cajero automático\Aplicación cajero automático\bin\Debug\net8.0\Aplicación cajero automático.pdb
+D:\EjerciciosLab3\Aplicación cajero automático\Aplicación cajero automático\obj\Debug\net8.0\Aplicación cajero automático.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosLab3\Aplicación cajero automático\Aplicación cajero automático\obj\Debug\net8.0\Aplicación cajero automático.AssemblyInfoInputs.cache
+D:\EjerciciosLab3\Aplicación cajero automático\Aplicación cajero automático\obj\Debug\net8.0\Aplicación cajero automático.AssemblyInfo.cs
+D:\EjerciciosLab3\Aplicación cajero automático\Aplicación cajero automático\obj\Debug\net8.0\Aplicación cajero automático.csproj.CoreCompileInputs.cache
+D:\EjerciciosLab3\Aplicación cajero automático\Aplicación cajero automático\obj\Debug\net8.0\Aplicación cajero automático.dll
+D:\EjerciciosLab3\Aplicación cajero automático\Aplicación cajero automático\obj\Debug\net8.0\refint\Aplicación cajero automático.dll
+D:\EjerciciosLab3\Aplicación cajero automático\Aplicación cajero automático\obj\Debug\net8.0\Aplicación cajero automático.pdb
+D:\EjerciciosLab3\Aplicación cajero automático\Aplicación cajero automático\obj\Debug\net8.0\Aplicación cajero automático.genruntimeconfig.cache
+D:\EjerciciosLab3\Aplicación cajero automático\Aplicación cajero automático\obj\Debug\net8.0\ref\Aplicación cajero automático.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ingresar y buscar archivos/1.0.0": {
+        "runtime": {
+          "Ingresar y buscar archivos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ingresar y buscar archivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
